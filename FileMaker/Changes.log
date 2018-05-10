@@ -1,0 +1,7 @@
+﻿Timestamp	Filename	Error	Message
+2018-05-09 19:19:29.989 -0700	Service Tracker.fmp12	0	Create chart layout started
+2018-05-09 19:19:29.993 -0700	Service Tracker.fmp12	0	Layout folder created: Charts
+2018-05-09 19:19:29.994 -0700	Service Tracker.fmp12	0	Script folder created: Charts
+2018-05-09 19:19:30.005 -0700	Service Tracker.fmp12	0	Script created: Service Duration Summary by Visit::Therapist
+2018-05-09 19:19:30.384 -0700	Service Tracker.fmp12	0	Chart layout created: Service Duration Summary by Visit::Therapist
+2018-05-09 19:19:30.384 -0700	Service Tracker.fmp12	0	Create chart layout completed
